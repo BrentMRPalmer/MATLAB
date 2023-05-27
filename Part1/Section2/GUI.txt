@@ -1,0 +1,13 @@
+Command Window:
+Where we will be writing our code. Takes up most of the screen.
+Can think of it as a sophisticated calculator.
+
+Current Folder Window:
+Show the directory of our current scripts and MATLAB files. These files can be executed in matlab. 
+The bar above the current folder and command window shows the path of the current
+working directory.
+Can click the folder icon with little green arrow to change the current working
+directory.
+
+Workspace:
+Keeps track of all the variables that are currently being processed by the MATLAB software.

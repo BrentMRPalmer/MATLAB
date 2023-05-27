@@ -1,0 +1,29 @@
+Variables:
+Data containers.
+Ex
+>> x = 5
+Stores the value of 5 into x.
+>> x = 5 * 12
+Stores the value of 60 into x.
+Can access this value with
+>> x
+
+whos:
+Displays all the variables that are currently
+being manipulated by MATLAB.
+The name comes from the idea of "who is in the 
+workspace?"
+
+clear:
+used with the purpose of deleting a variable 
+from the workspace. 
+>> clear x
+Will delete x from the workspace.
+>> clear all
+Will delete everything from the workspace. 
+
+Arrows:
+Can use arrows to retrieve previous commands. 
+
+clc:
+Clears the entire screen on the Command Window.
